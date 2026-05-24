@@ -15,16 +15,10 @@
 
 ## 🛠️ Skills & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,flask,github,vscode" />
 
-</p>
-
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
 
