@@ -15,8 +15,6 @@
 
 ## 🛠️ Skills & Tools
 
-<h2 align="center">🛠️ Skills & Tools</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,flask,github,vscode" />
 </p>
@@ -41,6 +39,7 @@
   <img src="https://img.shields.io/badge/Statistics-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/EDA-00897B?style=for-the-badge" />
 </p>
+
 - Python  
 - SQL  
 - Power BI  
