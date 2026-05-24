@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasika Mohan Deshmukh</h1>
-<h3 align="center">Data Analyst | Data Scientist | Python Enthusiast</h3>
+<h3 align="center">Data Analyst | Data Scientist Enthusiast</h3>
 
 ---
 
