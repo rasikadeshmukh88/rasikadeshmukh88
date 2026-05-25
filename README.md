@@ -81,12 +81,23 @@
 
 ---
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
-📧 Email: rasikadeshmukh3012@gmail.com  
+<div class="social-buttons">
+    
+    <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" class="btn linkedin">
+        LinkedIn
+    </a>
 
-💼 LinkedIn:  
-www.linkedin.com/in/rasika-deshmukh-b2842a365
+    <a href="mailto:rasikadeshmukh3012@gmail.com" class="btn email">
+        Email
+    </a>
+
+    <a href="https://github.com/rasikadeshmukh88" target="_blank" class="btn github">
+        GitHub
+    </a>
+
+</div>
 
 ---
 
