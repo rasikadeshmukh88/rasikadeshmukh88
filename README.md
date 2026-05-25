@@ -83,21 +83,20 @@
 
 <h2>🌐 Connect With Me</h2>
 
-<div class="social-buttons">
-    
-    <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" class="btn linkedin">
-        LinkedIn
-    </a>
+<p>
+  <a href="https://www.linkedin.com/in/rasika-deshmukh-b2842a365">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-    <a href="mailto:rasikadeshmukh3012@gmail.com" class="btn email">
-        Email
-    </a>
+  <a href="mailto:rasikadeshmukh3012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-    <a href="https://github.com/rasikadeshmukh88" target="_blank" class="btn github">
-        GitHub
-    </a>
+  <a href="https://github.com/rasikadeshmukh88">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-</div>
 
 ---
 
